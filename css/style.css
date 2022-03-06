@@ -906,6 +906,7 @@ footer.copyright div a{
   header.hero .hero-image{
     right: -235px;
     top: 150px;
+    display: none;
   }
   header.hero .container{
     padding: 1rem;
