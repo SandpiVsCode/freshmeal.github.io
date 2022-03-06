@@ -929,6 +929,13 @@ footer.copyright div a{
   section.subscribe .container img{
     margin-bottom: 1rem;
   }
+  section.latest-news .container .card .card-content .post-meta div span {
+    display: block;
+  }
+  section.latest-news .container .card .card-content h2{
+    font-size: 18px;
+    word-wrap: break-word;
+  }
   section.contact-us{
     flex-direction: column;
   }
